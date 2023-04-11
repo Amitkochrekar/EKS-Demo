@@ -1,2 +1,2 @@
-bucket="terraform-qa-state-bucket-mithuntechnologies"
+bucket="terraform-qa-state-bucket-amit"
 key="eks/terraform.tfstate"
