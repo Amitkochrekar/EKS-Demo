@@ -3,4 +3,4 @@ min_size = 1
 max_size = 4
 instance_types = ["t2.micro"]
 project_name = "Demo-EKS-Dev"
-common_tags = {"Environmet" = "Dev" , "Owner" = "Mithun Technologies"}
+common_tags = {"Environmet" = "Dev" , "Owner" = "Amit"}
