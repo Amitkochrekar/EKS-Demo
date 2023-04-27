@@ -1,2 +1,2 @@
-bucket="terraform-dev-state-bucket-amit"
+bucket="terraform-dev-state-bucket-1"
 key="eks/terraform.tfstate"
